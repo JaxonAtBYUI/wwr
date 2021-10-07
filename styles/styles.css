@@ -19,17 +19,18 @@ header {
 }
 
 nav {
-    background-color: #BDDEC7
+    background-color: #BDDEC7;
 }
 
 nav a {
     text-align: center;
     text-decoration: none;
+    color: #5C7F9A;
 }
 
 nav a:hover {
     background-color: #5C7F9A;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 #hero-img {
@@ -48,6 +49,7 @@ nav a:hover {
 .book,
 .join {
     background-color: #BDDEC7;
+    color: #5C7F9A;
     text-decoration: none;
 }
 
@@ -93,7 +95,7 @@ footer h3 {
 
 footer h3 a {
     background-color: #BDDEC7;
-    color: #000000;
+    color: #5C7F9A;
     text-decoration: none;
 }
 

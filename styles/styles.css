@@ -19,7 +19,7 @@ h2 {
     margin: 0 auto;
 }
 header {
-    background-color: #5C7F9A;
+    background-color: rgba(92, 127, 154, .75);
     color: #FFFFFF;
     display: grid;
     grid-template-columns: 150px auto;
@@ -46,7 +46,7 @@ nav a {
     padding: 35px;
 }
 nav a:hover {
-    background-color: #BDDEC7;
+    background-color: rgba(189, 222, 199, .8);
     color: #5C7F9A;
 }
 #hero {
@@ -106,6 +106,7 @@ nav a:hover {
     border: 10px solid #BDDEC7;
     width: 100%;
     box-shadow: 5px 5px 10px #000000;
+    transition: transform .5s;
 }
 .card-img:hover {
     opacity: .6;

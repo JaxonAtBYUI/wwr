@@ -169,6 +169,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-decoration: none;
 }
 footer h3 {
     color:#FFFFFF
